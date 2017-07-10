@@ -1,6 +1,6 @@
 # Synchronous-Bidirectional-Counter
 A synchronous 4-bit Up/Down Counter using D flip-flops with asynchronous Reset, Enable Count and Parallel load signals. 
-Counter is consisted by 4 D flip-flops. A The flip-flop design has a negative triggered asynchronous clear signal. 
+Counter is consisted by 4 D flip-flops. The flip-flop design has a negative triggered asynchronous clear signal. 
 
 ## Main Features
 1. Clock output.
